@@ -1,0 +1,12 @@
+上傳檔案至git
+
+step 1 : git init
+step 2 : git add .
+step 3 : git commit -m 'all'
+step 4 : git remote add origin 網址
+step 5 : git push -u origin master
+
+
+
+在 GitHub 上打開你想要下載的儲存庫，點擊綠色的 “Code” 按鈕，然後複製 HTTPS URL。
+git clone <URL>
